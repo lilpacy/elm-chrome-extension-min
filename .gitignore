@@ -9,6 +9,7 @@ elm-stuff
 dist/.git
 dist/js.*.js
 dist/js.*.css
+dist/js.*.map
 dist/content_scripts*
 dist/index.html
 
