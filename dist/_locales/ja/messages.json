@@ -1,0 +1,12 @@
+{
+  "extName": {
+    "message": "test"
+  },
+  "extShortName": {
+    "message": "test"
+  },
+  "extDescription": {
+    "message": "流れ星フォルダ内のブックマークをCtrl+Sで順番に遷移します"
+  }
+}
+

@@ -1,0 +1,11 @@
+{
+  "extName": {
+    "message": "test"
+  },
+  "extShortName": {
+    "message": "test"
+  },
+  "extDescription": {
+    "message": "transit bookmarks in transit-bkmks folder one after another by Ctrl+S key"
+  }
+}
